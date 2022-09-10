@@ -9,7 +9,7 @@ image:
 
   ks_apiserver_repo: kubesphere/ks-apiserver
   ks_apiserver_tag: ""
-  ks_console_repo: "kubesphere/ks-console"
+  ks_console_repo: "harbor.kuberix.co.kr/kubesphere/ks-console"
   ks_console_tag: ""
 
   ks_kubectl_repo: kubesphere/kubectl
